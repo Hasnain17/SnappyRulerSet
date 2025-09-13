@@ -113,12 +113,18 @@ Run tests directly from Android Studio with **Run > Run Tests**.
 
 ## 🎥 Video Demo
 
-[Video Link](https://drive.google.com/file/d/1VpRO712QtR5DQv5thcs9PFXOC2dn9AOo/view?usp=sharing).
+[Video Link](https://drive.google.com/file/d/1VpRO712QtR5DQv5thcs9PFXOC2dn9AOo/view?usp=sharing)
 
 ---
 
 # APK File 📱📲
 
-[Apk Link](https://drive.google.com/file/d/1ZISFY_56qwd9jZ6GjW0VNbNe4_1pwhcM/view?usp=sharing).
+[Apk Link](https://drive.google.com/file/d/1ZISFY_56qwd9jZ6GjW0VNbNe4_1pwhcM/view?usp=sharing)
+
+---
+
+# Document 📄 
+
+[Document Link](https://drive.google.com/file/d/1bYP3zkx9WrOJx_ec_hREYfUShsKVDraw/view?usp=sharing)
 
 ---
